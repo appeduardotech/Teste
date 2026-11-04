@@ -1,0 +1,1 @@
+curl -fsSL https://raw.githubusercontent.com/appeduardotech/Teste/refs/heads/main/recon_passivo.sh | bash -s -- site.cm
